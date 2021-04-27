@@ -1,2 +1,2 @@
-# My-first-code
+# Restaurant management system
 Restaurant billing system
